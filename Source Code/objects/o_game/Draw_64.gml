@@ -12,7 +12,7 @@ var gui_height = display_get_gui_height();
 
 if paused_ {
 	
-
+	
 	draw_set_color(c_black);
 	draw_rectangle(0, 0, gui_width, gui_height, false);
 	draw_set_color(c_white);

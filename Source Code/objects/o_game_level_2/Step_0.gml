@@ -8,7 +8,7 @@ if(paused_)	{
 }
 
 
-if(timer <= 0 && global.temp <= 0)	{
+if(timer <= 0 && global.temp <= 30)	{
 	// add any condition to terminate when times up
 	//could be all enemies stop spawning
 	

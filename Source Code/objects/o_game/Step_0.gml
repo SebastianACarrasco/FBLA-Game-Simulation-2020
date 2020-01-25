@@ -8,7 +8,7 @@ if(paused_)	{
 }
 
 
-if(timer <= 0 && global.temp <= 0)	{
+if(timer <= 0 && global.temp <= 00)	{
 	// add any condition to terminate when times up
 	
 	instance_destroy(o_player);
@@ -17,7 +17,7 @@ if(timer <= 0 && global.temp <= 0)	{
 }
 
 //makes teleporter back to base
-if (score >= 10)	{
+if (global.temp >= 10)	{
 	if(timer <= 0)	{
 		timer = ((((timer + 3) * 2) - 4) / 2) - timer;
 	}

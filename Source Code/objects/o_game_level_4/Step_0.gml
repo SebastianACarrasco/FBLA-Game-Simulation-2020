@@ -3,6 +3,12 @@
 timer -= 1;
 isDead = false;
 
+if(paused_)	{
+	timer += 1;
+}
+
+
+
 if(timer <= 0 && global.temp <= 0)	{
 	// add any condition to terminate when times up
 	//could be all enemies stop spawning

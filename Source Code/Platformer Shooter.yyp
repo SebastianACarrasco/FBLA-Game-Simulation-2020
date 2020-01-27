@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "193e3c4f-6c81-4a01-9bd8-374c8a05d6ad",
+            "Value": {
+                "id": "a0c1dade-9296-4c25-adcd-24a693df9aec",
+                "resourcePath": "sprites\\s_teach\\s_teach.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1bff27fc-9d4c-4812-ac91-31178f597e62",
             "Value": {
                 "id": "2f168904-3b11-439b-a049-7e3bae93d63d",
@@ -132,6 +140,14 @@
                 "id": "3709d9ca-9009-4933-afb2-d5c8cfca3dea",
                 "resourcePath": "sprites\\s_money\\s_money.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2879aaf9-ec51-499a-9ad1-c6ff653bf30f",
+            "Value": {
+                "id": "e729a8e2-ab3a-4945-9aae-9e11a924e335",
+                "resourcePath": "rooms\\r_battle_level_4\\r_battle_level_4.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -202,7 +218,7 @@
             "Key": "36d43eb5-da12-44c0-909b-e66f77b66310",
             "Value": {
                 "id": "087785f4-ef37-40d2-a28a-2ec0cfe87a56",
-                "resourcePath": "rooms\\r_battle_level_4\\r_battle_level_4.yy",
+                "resourcePath": "rooms\\r_battle_level_u\\r_battle_level_u.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -284,6 +300,14 @@
                 "id": "7882c283-8999-4918-a526-623cba276e98",
                 "resourcePath": "objects\\o_solid\\o_solid.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5312ad92-5896-404e-a8f4-7751a38e6fd7",
+            "Value": {
+                "id": "a0c4b0a4-5606-4fa7-8ca2-cafbdf089e9c",
+                "resourcePath": "sprites\\stage4\\stage4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -764,6 +788,14 @@
                 "id": "fa4c26ef-38e5-4243-992a-79b1a9bb6951",
                 "resourcePath": "sprites\\Stage3\\Stage3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ec51dfb4-7cd5-49df-ad5c-c93ab9332cdc",
+            "Value": {
+                "id": "490423c6-57f3-42ad-a18c-b5c7bb334a95",
+                "resourcePath": "objects\\o_wahi\\o_wahi.yy",
+                "resourceType": "GMObject"
             }
         },
         {

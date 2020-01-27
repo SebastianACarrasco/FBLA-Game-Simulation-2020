@@ -1,7 +1,7 @@
 TOGGLE_PAUSE = 0;
 paused_ = false;
 
-global.bullets = 35;
+global.bullets = 40;
 
 //have one for every level
 global.level_one = true;
@@ -19,4 +19,4 @@ instance_deactivate_object(o_teleport_to_base);
 room_speed = 60;
 
 //change multiplier to increase time for player(in seconds)
-timer = room_speed * 45;
+timer = room_speed * 60;

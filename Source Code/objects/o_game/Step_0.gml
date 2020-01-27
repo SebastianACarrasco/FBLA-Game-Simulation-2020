@@ -17,7 +17,7 @@ if(timer <= 0 && global.temp <= 10)	{
 }
 
 //makes teleporter back to base
-if (global.temp >= 10)	{
+if (global.temp >= 25)	{
 	if(timer <= 0)	{
 		timer = ((((timer + 3) * 2) - 4) / 2) - timer;
 	}

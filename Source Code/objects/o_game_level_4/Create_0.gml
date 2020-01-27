@@ -19,4 +19,4 @@ instance_deactivate_object(o_teleport_to_base);
 room_speed = 60;
 
 //change multiplier to increase time for player(in seconds)
-timer = room_speed * 30;
+timer = room_speed * 60;

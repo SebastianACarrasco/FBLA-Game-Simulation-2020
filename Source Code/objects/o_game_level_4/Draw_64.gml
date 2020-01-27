@@ -5,7 +5,7 @@
 draw_text(display_get_gui_width() - 100, 20, "Score: " + string(score));
 draw_text(display_get_gui_width()- 600, 20, "Time: " + string(timer/room_speed));
 draw_text(display_get_gui_width() - 100, 50, "Pretzels: " + string(global.bullets));
-draw_text(display_get_gui_width() - 100, 100, string(global.temp) + " out of 30");
+draw_text(display_get_gui_width() - 100, 100, string(global.temp) + " out of 25");
 
 var gui_width = display_get_gui_width();
 var gui_height = display_get_gui_height();

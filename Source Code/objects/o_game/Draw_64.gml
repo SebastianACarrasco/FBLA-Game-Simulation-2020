@@ -3,7 +3,7 @@
 
 draw_text(display_get_gui_width() - 100, 20, "Score: " + string(score));
 
-draw_text(display_get_gui_width() - 100, 50, string(global.temp) + " out of 10");
+draw_text(display_get_gui_width() - 100, 50, string(global.temp) + " out of 25");
 draw_text(display_get_gui_width()- 600, 20, "Time: " + string(timer/room_speed));
 draw_text(display_get_gui_width() - 100, 80, "Pretzels: " + string(global.bullets));
 

@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "166a1628-f59f-454f-bb23-694fe8d245e2",
+            "Value": {
+                "id": "15939333-2d24-4942-af2b-9230343ca1a2",
+                "resourcePath": "objects\\o_popup\\o_popup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16b929ee-a1a2-4c79-957b-3129bb1edd02",
             "Value": {
                 "id": "d48c1270-f941-4aa0-9e91-cf2db48c7a33",

@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "599fe5b4-0f58-4310-8209-4aa810df3592",
+            "Value": {
+                "id": "aa93458a-2fb2-4699-91ed-9a09667ce70f",
+                "resourcePath": "sounds\\a_bg\\a_bg.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "59a0231d-6d92-45ef-bbcc-600f0c674512",
             "Value": {
                 "id": "b09ca227-6327-427b-9e70-206ce1930926",
@@ -492,6 +500,22 @@
                 "id": "b7c40f8b-4343-4f69-b297-9ff23b7b5cdb",
                 "resourcePath": "views\\9617943d-5b0b-4c6b-8041-85e4e3b51bc7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "98889c8e-4d97-48d0-86d9-2560f714bf00",
+            "Value": {
+                "id": "e66147f7-a59d-4f2a-b35c-0534bb1d3801",
+                "resourcePath": "sprites\\s_credit_button\\s_credit_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b39a60e-74a6-4ef6-a7f3-571c43cfd6df",
+            "Value": {
+                "id": "10cadc7c-3860-4b5a-a445-d062e298bad4",
+                "resourcePath": "objects\\o_credit_button\\o_credit_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -851,6 +875,14 @@
             "Value": {
                 "id": "f3fc682f-0c98-4739-8672-8a1b8b704954",
                 "resourcePath": "objects\\o_game_level_2\\o_game_level_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ef4b2d56-4edd-4b08-9ace-ee785f56bf0d",
+            "Value": {
+                "id": "5f9c52dd-7228-420f-895f-313e1163018d",
+                "resourcePath": "objects\\o_count\\o_count.yy",
                 "resourceType": "GMObject"
             }
         },

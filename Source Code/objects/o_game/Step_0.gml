@@ -8,7 +8,7 @@ if(paused_)	{
 }
 
 
-if(timer <= 0 && global.temp <= 10)	{
+if(timer <= 0 && global.temp <= 25)	{
 	// add any condition to terminate when times up
 	
 	instance_destroy(o_player);
